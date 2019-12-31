@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content id="defense_module_rebalance" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" version="0.1" date="2019-28-12" save="0" enabled="1">
+  <text language="7" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="44" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="33" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="34" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="39" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="49" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="86" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+  <text language="88" name="Defense Module Rebalance" description="Inceases the HP of all Defense Modules by 10x" author="Nephilim" />
+</content>
